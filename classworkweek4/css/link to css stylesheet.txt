@@ -1,0 +1,17 @@
+@media (max-width: 600px) {
+
+  div {
+    width: 80%;
+  }
+
+}
+
+@media (min-width: 600px) {
+
+  div {
+    width: 80%;
+  }
+
+}
+
+<meta name="viewport" coment="width=device-width, initial-scale=1.0">
